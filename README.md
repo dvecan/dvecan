@@ -1,6 +1,5 @@
 ## Hello 👋 It's David!
-Product Designer self-teaching software engineering fundamentals.
-
+Product Designer & self-taught software engineer.
 
 <br>
 

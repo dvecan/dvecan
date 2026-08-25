@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm David Velasco, a Product Designer & self-taught software engineer.
+I'm David Velasco, a Product Designer learning software engineering.
 
 <br>
 
